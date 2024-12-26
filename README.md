@@ -13,4 +13,4 @@ Hello! I'm Agrasen Chaudhary, a passionate Pre final year B.Tech CSE student at 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itssagraxen02&label=Profile%20Views&color=10&icon=6&pretty=false)](https://visitcount.itsvg.in)]
+[![](https://visitcount.itsvg.in/api?id=itssagraxen02&label=Profile%20Views&color=10&icon=6&pretty=false)](https://visitcount.itsvg.in)
